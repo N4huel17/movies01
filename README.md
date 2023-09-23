@@ -7,7 +7,7 @@
  Julian Saucedo//Edad: 34//Ciudad: Berazategui;
 
  Integrante - 3)
- Ian Bautista Salinas//
+ Ian Bautista Salinas//Edad:18 //Ciudad:San miguel.
 
  Integrante - 4)
  Nicole Colmenarez// edad : 21 // ciudad : Caballito // 
