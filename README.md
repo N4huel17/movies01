@@ -1,7 +1,7 @@
 #  MOVIES01
 ## Integrantes
  Integrante - 1)
- Gisele Ortiz//
+ Gisele Ortiz// Edad : 39 // Cuidad: San miguel.
 
  Integrante - 2)
  Julian Saucedo//
