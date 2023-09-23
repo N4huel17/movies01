@@ -10,7 +10,7 @@
  Ian Bautista Salinas//
 
  Integrante - 4)
- Nicole Colmenarez//
+ Nicole Colmenarez// edad : 21 // ciudad : Caballito // 
 
  Integrante - 5)
  Nahuel Mendez//
