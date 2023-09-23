@@ -13,7 +13,7 @@
  Nicole Colmenarez// edad : 21 // ciudad : Caballito // 
 
  Integrante - 5)
- Nahuel Mendez//
+ Nahuel Mendez//Edad:22 //Ciudad: San Miguel.
 
 
  
