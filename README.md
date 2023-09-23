@@ -4,7 +4,7 @@
  Gisele Ortiz//
 
  Integrante - 2)
- Julian Saucedo//
+ Julian Saucedo//Edad: 34//Ciudad: Berazategui;
 
  Integrante - 3)
  Ian Bautista Salinas//
