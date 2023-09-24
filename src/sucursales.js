@@ -1,19 +1,24 @@
 const fs = require('fs')
 
-let preguntasFrecuentes = {
-    db:'./data/faqs.json',
-    titulo: 'Preguntas Frecuentes',
+let sucursales = {
+    db:'./data/theaters.json',
+    titulo: 'Nuestras Salas',
     leerJSON: function(){
-        let faqsJSON = fs.readFileSync(this.db, 'utf-8');
-        let faqs = JSON.parse(faqsJSON);
-        return faqs
+        let theatersJSON = fs.readFileSync(this.db, 'utf-8');
+        let salas = JSON.parse(theatersJSON);
+        return salas
     },
-    cantidad: function(){
-        return this.leerJSON().total_faqs
+    cantidad: function (){
+        return this.leerJSON().total_theaters
     },
-    listarFaqs: function(){
-        let faqs = this.leerJSON();
-        return faqs.faqs
+    listarSalas: function (){
+        let theaters = this.leerJSON();
+        return theaters.theaters
+        }
+        
     }
-}
-module.exports = preguntasFrecuentes
+
+
+
+
+module.exports = sucursales
